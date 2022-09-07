@@ -8,7 +8,7 @@ Resolucion del Challenge de Java para la aceleracion de septiembre 2022
 - Spring Web
 - Spring Data JPA
 - Spring Security
-- MySQL
 - JWT
 - Java Mail
+- MySQL
 - Lombok
